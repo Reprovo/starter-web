@@ -22,4 +22,4 @@ change
 barp
 
 ### Copyright
-git.training
+git.training 2014
