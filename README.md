@@ -7,7 +7,11 @@ then more changes from myfeature branch too.
 
 ## Introduction
 
+<<<<<<< HEAD
 This is an example to showed cedfrcercer
+=======
+This is an example to showed cercercer sdfsdf
+>>>>>>> 5de99c0... test
 
 ## Purpose
 
