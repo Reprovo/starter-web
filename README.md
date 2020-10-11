@@ -16,7 +16,7 @@ elk stack pack
 
 #### How to contribute
 
-change
+Please fork this repository and then issue pull request for review
 
 ### yarp
 barp
