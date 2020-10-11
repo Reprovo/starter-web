@@ -7,7 +7,7 @@ then more changes from myfeature branch too.
 
 ## Introduction
 
-This is an example to showed
+This is an example to showed cercercer
 
 ## Purpose
 
